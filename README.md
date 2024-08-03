@@ -1,6 +1,6 @@
 # [ParTech Mobile OS](https://github.com/BDadmehr0/ParTech-OS)
 
-<img src="https://github.com/BDadmehr0/ParTech-OS/blob/main/logo.png" alt="Project Logo" width="200"/>
+<img src="https://github.com/BDadmehr0/ParTech-OS/blob/main/logo.png" alt="Project Logo" width="600"/>
 
 
 Welcome to **ParTech Mobile OS**, the next-generation operating system designed exclusively for ParTech mobile devices. Experience unparalleled performance, security, and ease of use with our fresh and innovative OS.
